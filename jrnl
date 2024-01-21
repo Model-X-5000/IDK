@@ -1,0 +1,3 @@
+*Requiers pipx*
+  pipx install jrnl
+  jrnl
