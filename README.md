@@ -1,0 +1,1 @@
+Hello my name is Evan I am a 12 year-old that love coding and tech as a whole. Everything not in any special charcters is code for Debian Linux. Please keep that in note. I test everything that I put in here for others and a reminder for myself in the future. I hope you have a good day/night.
